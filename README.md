@@ -1,2 +1,8 @@
 # IBM-Project-41863-1660645649
 Personal Assistance for Seniors Who Are Self-Reliant
+
+
+TEAM LEAD     - VIGNESH K
+TEAM MEMBER 1 - PRIYA K
+TEAM MEMBER 2 - SARUBALA S
+TEAM MEMBER 3 - SHINY EVENGELINE A
